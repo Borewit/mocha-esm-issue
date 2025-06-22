@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "inlineSources": false,
+    "module": "node16",
+    "moduleResolution": "node16",
+    "target": "ES2020",
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "erasableSyntaxOnly": true,
+    "libReplacement": false,
+    "types": ["mocha"],
+    "strict": true
+  }
+}
